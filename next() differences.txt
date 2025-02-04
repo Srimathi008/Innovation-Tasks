@@ -1,0 +1,8 @@
+ 1.difference between next() and nextLine():
+
+          * next() reads until the first whitespace (space, tab, or newline), while nextLine() reads the entire line.
+
+
+          * next() does not consume the newline, which might affect further input, while nextLine() consumes it properly.
+
+
