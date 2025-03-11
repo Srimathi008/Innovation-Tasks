@@ -4,7 +4,6 @@ public class Company
     static String companyName="infosys";
     String employeeName;
     Company(String myemployeeName){
-    //this.companyName=mycompanyName;
     this.employeeName=myemployeeName;
     }
     void display(){
